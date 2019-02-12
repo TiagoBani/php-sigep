@@ -1,6 +1,6 @@
 {
     "name": "tiagobani/php-sigep",
-    "version": "1.0.2",
+    "version": "1.0.4",
     "type": "library",
     "description": "Integração com Web Service do Correios. Gera etiquetas, consulta preços e prazos, imprime etiquetas e PLP, etc.",
     "keywords": ["correios", "sigep"],
@@ -32,6 +32,10 @@
         {
             "name": "Rafael Stavarengo",
             "email": "faelsta@gmail.com"
+        },
+        {
+            "name": "Tiago Bani",
+            "email": "tiago.bani@yahoo.com.br"
         }
     ]
 }
